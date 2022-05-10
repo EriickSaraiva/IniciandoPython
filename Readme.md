@@ -1,2 +1,2 @@
 #Programa simples que aborda o atendimento virtual de uma pizzaria.
-"# -Entrada:printamos logo no comeáo as boas-vindas ao cliente, em seguida obtemos as informaá‰es de entrega e contato." 
+"# - Entrada: printamos no come√ßo as boas-vindas ao cliente, em seguida obtemos as informa√ß√µes de entrega e contato." 
